@@ -1,3 +1,9 @@
+I do not take credit for any of this! All of the credit goes to https://github.com/Rob--W
+I just wanted a faster server
+
+
+
+
 This API enables cross-origin requests to anywhere.
 
 Usage:
